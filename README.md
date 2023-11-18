@@ -1,3 +1,13 @@
 # projeto-android
-tecnologias usadas no projeto: HTML e CSS
+
+## Visite o site
 https://jonaspessoa-projeto-android.netlify.app/
+
+### Tecnologias usadas
+
+- HTML
+
+- CSS
+
+
+
